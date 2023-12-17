@@ -1,0 +1,5 @@
+n1 = input("num1 : ")
+n2 = input("num2 : ")
+n3 = input("num3 : ")
+result = float(n1) + float(n2) + float(n3)
+print("sum is", result)
